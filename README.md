@@ -1,5 +1,3 @@
-# Felype Nascimento
-
 ## Olá, eu sou o Felype Nascimento! 👋
 #### Estudante e Dev Fullstack Web no Alpha Edtech, uma ong que forma desenvolvedores com as tecnologias mais usadas do mercado.
 <br/>HTML, CSS, JS, NodeJS, Python e Figma 🤓 :computer:
