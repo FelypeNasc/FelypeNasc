@@ -16,9 +16,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/imtiui#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/imtiui#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](mailto:felype.nasc@hotmail.com)
-[![website](./img/instagram-dark.svg)](mailto:felype.nasc@hotmail.com)
 
 ### Languages and Tools:
 
