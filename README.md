@@ -8,8 +8,8 @@
 
 ### Contact me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/imtiui#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/imtiui#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/imtiui#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/imtiui#gh-dark-mode-only)
@@ -36,4 +36,4 @@
 
 [twitter]: https://twitter.com/imtiui
 [instagram]: https://instagram.com/imtiui
-[linkedin]: https://www.linkedin.com/in/felype-nascimento-82138bb9/
+[linkedin]: https://www.linkedin.com/in/felype-nascimento/
