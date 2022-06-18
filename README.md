@@ -1,4 +1,4 @@
-# Heya! I'm Felype - aka Chewie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Heya! I'm Felype - aka Chewie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
 ## I'm a Fullstack Web Developer!
 
