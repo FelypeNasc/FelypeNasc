@@ -3,7 +3,7 @@
 ## I'm a Fullstack Web Developer!
 
 - 🏛 I'm currently studying at Alpha Edtech and Deep ESG! 🐳
-- 📚 I’m currently learning React and Vue 😉
+- 📚 I’m currently learning Nest and Typescript 😉
 - ⚡ About me: I love technology and games. :D
 
 ### Languages and Tools:
@@ -22,8 +22,6 @@
 <br />
 <br />
 
-<img align="left" alt="FelypeNasc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felypenasc&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 ### Contact me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-light-mode-only)
@@ -34,6 +32,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/imtiui#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/imtiui#gh-dark-mode-only)
+
+<img align="left" alt="FelypeNasc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felypenasc&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 
 [twitter]: https://twitter.com/imtiui
