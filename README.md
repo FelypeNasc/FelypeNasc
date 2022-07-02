@@ -6,17 +6,6 @@
 - 📚 I’m currently learning React and Vue 😉
 - ⚡ About me: I love technology and games. :D
 
-### Contact me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/imtiui#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/imtiui#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/imtiui#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/imtiui#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -34,6 +23,17 @@
 <br />
 
 <img align="left" alt="FelypeNasc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felypenasc&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+### Contact me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/imtiui#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/imtiui#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/imtiui#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/imtiui#gh-dark-mode-only)
 
 
 [twitter]: https://twitter.com/imtiui
