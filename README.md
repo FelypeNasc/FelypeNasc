@@ -2,9 +2,9 @@
 
 ## I'm a Fullstack Web Developer!
 
-- 🏛 I'm currently studying at Alpha Edtech and Deep ESG! 🐳
+- 🏛 I'm currently working Deep ESG! 🐳
 - 📚 I’m currently learning Nest and Typescript 😉
-- ⚡ About me: I love technology and games. :D
+- ⚡ About me: I love technology games and cats. 
 
 ### Languages and Tools:
 
