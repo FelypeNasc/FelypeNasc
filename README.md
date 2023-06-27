@@ -3,7 +3,7 @@
 ## I'm a Fullstack Web Developer!
 
 - 🏛 I'm currently working at Deep ESG! 🐳
-- 📚 Learning Nest and Typescript 😉
+- 📚 Learning Jest and TDD 😉
 - ⚡ About me: I love technology games and cats. 
 
 ### Languages and Tools:
