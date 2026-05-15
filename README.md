@@ -3,7 +3,7 @@
 ## I'm a Fullstack Web Developer!
 
 - 🏛 I'm currently working at Deep ESG! 🐳
-- 📚 Learning Jest and TDD 😉
+- 📚 Learning Golang and Rust 😉
 - ⚡ About me: I love technology games and cats. 
 
 ### Languages and Tools:
