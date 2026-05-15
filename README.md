@@ -28,11 +28,4 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-
-<img align="left" alt="FelypeNasc GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felypenasc&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
-
-[twitter]: https://twitter.com/imtiui
-[instagram]: https://instagram.com/imtiui
 [linkedin]: https://www.linkedin.com/in/felype-nascimento/
