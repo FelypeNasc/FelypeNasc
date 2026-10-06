@@ -1,31 +1,34 @@
-# Heya! I'm Felype <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+# Hey, I'm Felype 👋
 
-## I'm a Fullstack Web Developer!
+**Software Engineer | Backend-focused | B2B SaaS**
 
-- 🏛 I'm currently working at Deep ESG! 🐳
-- 📚 Learning Golang and Rust 😉
-- ⚡ About me: I love technology games and cats. 
+Software Engineer with 4+ years of experience building web applications and B2B SaaS products, with a strong focus on backend development, system architecture, and scalable solutions.
 
-### Languages and Tools:
+Currently working at **DeepESG**, developing solutions for ESG management and data collection platforms.
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" >
-<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+### 💻 Technologies & Tools
 
-<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+**Backend:** Node.js · NestJS · TypeScript · REST APIs · TypeORM · PostgreSQL · Redis · Python · FastAPI
 
-<br />
-<br />
+**Frontend:** Vue.js · React · Nuxt.js · Pinia · ECharts
 
-### Contact me:
+**Cloud & Architecture:** Google Cloud Platform (GCP) · AWS · Pub/Sub · Cloud Scheduler · Multi-tenant Architecture · Event-driven Systems · Clean Architecture
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felype-nascimento/#gh-dark-mode-only)
-&nbsp;&nbsp;
+**AI:** LLMs · RAG · ChromaDB
 
-[linkedin]: https://www.linkedin.com/in/felype-nascimento/
+**Testing & Development:** Jest · Playwright · TDD · Git · Swagger / OpenAPI
+
+### 🚀 What I Work With
+
+* Backend development and API design
+* Scalable and multi-tenant architectures
+* Relational data modeling and database optimization
+* Event-driven workflows and asynchronous processing
+* Large-scale data import and export
+* AI-powered features and RAG applications
+* Fullstack product development
+
+### 📫 Connect
+
+[![LinkedIn](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/felype-nascimento/)
+[![LinkedIn](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/felype-nascimento/)
