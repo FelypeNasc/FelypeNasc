@@ -30,4 +30,4 @@ Currently working at **DeepESG**, developing solutions for ESG management and da
 
 ### 📫 Connect
 
-[![LinkedIn](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/felype-nascimento/)
+[![LinkedIn](./img/linkedin-dark.svg#gh-light-mode-only)](https://www.linkedin.com/in/felype-nascimento/)
